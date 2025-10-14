@@ -9,37 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+* 2022.03 - Present: Senior Researcher
+  * Huawei Noah's Ark Lab
+  * Research Focus: Embodied AI, Reinforcement Learning, Multimodal Large Language Models
+  * Developing intelligent systems that can perceive, reason, and interact with physical environments
+
+* 2021.05 - 2021.09: Research Intern
+  * Tencent IEG (Interactive Entertainment Group)
+  * Focus: Reinforcement Learning Algorithms
+
+* 2020.08 - 2021.04: Research Intern
+  * Baidu NLP Department
+  * Focus: Reinforcement Learning Algorithms
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2019.09 - 2022.03: Master of Science
+  * Harbin Institute of Technology
 
-Work experience
+* 2015.09 - 2019.06: Bachelor of Science
+  * Central South University
+
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Embodied AI
+  * Developing intelligent agents for physical world interaction
+  * Multi-modal perception and decision making
+  * Sim-to-real transfer learning
+* Reinforcement Learning
+  * Deep reinforcement learning algorithms
+  * Multi-agent systems
+  * Model-based reinforcement learning
+* Multimodal Large Language Models
+  * Vision-language integration
+  * Action-conditioned models
+  * Foundation models for robotics
 
 Publications
 ======

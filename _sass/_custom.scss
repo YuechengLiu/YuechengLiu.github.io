@@ -1,0 +1,126 @@
+/* ==========================================================================
+   CUSTOM STYLES - Compact Layout
+   ========================================================================== */
+
+/* Reduce main content top margin */
+#main {
+  margin-top: 0.8em !important;  /* 从 2em 减少到 0.8em */
+  padding-left: 0.8em !important;
+  padding-right: 0.8em !important;
+}
+
+/* Reduce heading margins for more compact layout */
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0 0.3em !important;  /* 从 2em 0 0.5em 减少 */
+  line-height: 1.3 !important;
+}
+
+h1 {
+  margin-top: 0 !important;
+}
+
+h2 {
+  margin-top: 1.2em !important;
+}
+
+/* Reduce paragraph bottom margin */
+p {
+  margin-bottom: 0.7em !important;  /* 从 1.3em 减少 */
+  line-height: 1.6 !important;
+}
+
+/* Reduce section spacing in page content */
+.page__content {
+  p {
+    margin: 0 0 0.7em !important;  /* 减少段落间距 */
+  }
+  
+  h2 {
+    padding-bottom: 0.3em !important;  /* 从 0.5em 减少 */
+    margin-top: 1.2em !important;
+    margin-bottom: 0.5em !important;
+  }
+  
+  ul, ol {
+    margin-bottom: 0.7em !important;
+    margin-top: 0.5em !important;
+  }
+  
+  li {
+    margin-bottom: 0.2em !important;
+    line-height: 1.5 !important;
+  }
+}
+
+/* Reduce sidebar spacing */
+.sidebar {
+  margin-bottom: 0.5em !important;  /* 从 1em 减少 */
+  
+  @media (orientation: portrait) {
+    margin-top: 0.5em !important;  /* 从 1em 减少 */
+  }
+}
+
+/* Reduce author profile spacing */
+.author__content {
+  margin-top: 0.5em !important;
+  
+  p {
+    margin-bottom: 0.4em !important;
+  }
+}
+
+.author__bio {
+  margin-bottom: 0.5em !important;
+  
+  p {
+    margin-bottom: 0.3em !important;
+  }
+}
+
+.author__urls {
+  margin-top: 0.5em !important;
+  
+  li {
+    margin-bottom: 0.2em !important;
+  }
+}
+
+/* Reduce masthead padding for more compact header */
+.masthead__inner-wrap {
+  padding: 0.3em 1em !important;  /* 从 0.5em 减少 */
+}
+
+/* Reduce body padding */
+body {
+  padding-bottom: 5em !important;  /* 从 9em 减少 */
+}
+
+/* Reduce page title spacing */
+.page__title {
+  margin-bottom: 0.5em !important;
+  line-height: 1.2 !important;
+}
+
+/* Reduce contact section spacing */
+.page__content h2 + p,
+.page__content h2 + ul {
+  margin-top: 0.5em !important;
+}
+
+/* Publication list compact styles */
+.archive__item {
+  margin-bottom: 0.8em !important;  /* Reduce spacing between publications */
+}
+
+.archive__item-title {
+  font-size: 1.1em !important;  /* Smaller title font size */
+  margin-bottom: 0.2em !important;
+  line-height: 1.3 !important;
+}
+
+.archive__item p {
+  margin-bottom: 0.3em !important;
+  font-size: 0.9em !important;  /* Slightly smaller citation text */
+  line-height: 1.4 !important;
+}
