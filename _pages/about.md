@@ -15,14 +15,23 @@ I am a senior researcher at **Huawei Noah's Ark Lab**, where I focus on cutting-
 
 ## Work Experience
 
-* **Senior Researcher**, Huawei Noah's Ark Lab (2022.03 - Present)
-* **Research Intern**, Tencent IEG (Interactive Entertainment Group) (2021.05 - 2021.09)
-* **Research Intern**, Baidu NLP Department (2020.08 - 2021.04)
+* **2022.03 - Present**: **Senior Researcher, Huawei Noah's Ark Lab**
+  * Multimodal Large Language Models for Embodied AI
+  * Spatial Reasoning and Planning
+  * Large Space Navigation Algorithms
+  * Imitation Learning and Reinforcement Learning for Autonomous Driving
+
+* **2021.05 - 2021.09**: **Research Intern, Tencent IEG** (Interactive Entertainment Group)
+  * Reinforcement Learning algorithms for Game AI
+
+* **2020.08 - 2021.04**: **Research Intern, Baidu NLP Department**
+  * Reinforcement Learning and Distributed RL algorithms
+  * Black box optimization for intelligent power grid control
 
 ## Education
 
-* **Master of Science**, Harbin Institute of Technology (2019.09 - 2022.03)
-* **Bachelor of Science**, Central South University (2015.09 - 2019.06)
+* **2019.09 - 2022.03**: **Master of Science, Harbin Institute of Technology**
+* **2015.09 - 2019.06**: **Bachelor of Science, Central South University**
 
 ## Research Interests
 

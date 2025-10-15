@@ -7,6 +7,24 @@
   margin-top: 0.8em !important;  /* 从 2em 减少到 0.8em */
   padding-left: 0.8em !important;
   padding-right: 0.8em !important;
+  font-size: 0.875rem !important;  /* 只缩小主内容区域字体: 14px/16px = 0.875 */
+}
+
+/* Keep sidebar navigation at original size */
+.sidebar {
+  font-size: 1rem !important;  /* 保持侧边栏原始字体大小 */
+}
+
+.author__name {
+  font-size: 1rem !important;  /* 保持作者名字原始大小 */
+}
+
+.author__bio {
+  font-size: 1rem !important;  /* 保持简介原始大小 */
+}
+
+.author__urls {
+  font-size: 1rem !important;  /* 保持链接原始大小 */
 }
 
 /* Reduce heading margins for more compact layout */
@@ -21,6 +39,8 @@ h1 {
 
 h2 {
   margin-top: 1.2em !important;
+  color: #2c5aa0 !important;  /* 深蓝色标题，更有层次感 */
+  font-weight: 600 !important;  /* 稍微加粗，更突出 */
 }
 
 /* Reduce paragraph bottom margin */
@@ -39,6 +59,8 @@ p {
     padding-bottom: 0.3em !important;  /* 从 0.5em 减少 */
     margin-top: 1.2em !important;
     margin-bottom: 0.5em !important;
+    color: #2c5aa0 !important;  /* 深蓝色标题，更有层次感 */
+    font-weight: 600 !important;  /* 稍微加粗，更突出 */
   }
   
   ul, ol {
@@ -91,6 +113,16 @@ p {
   padding: 0.3em 1em !important;  /* 从 0.5em 减少 */
 }
 
+/* Navigation bar link colors */
+.greedy-nav a {
+  color: #2c5aa0 !important;  /* 深蓝色导航链接 */
+  font-weight: 500 !important;
+}
+
+.greedy-nav a:hover {
+  color: #1e4d8b !important;  /* 悬停时更深的蓝色 */
+}
+
 /* Reduce body padding */
 body {
   padding-bottom: 5em !important;  /* 从 9em 减少 */
@@ -100,6 +132,8 @@ body {
 .page__title {
   margin-bottom: 0.5em !important;
   line-height: 1.2 !important;
+  color: #2c5aa0 !important;  /* 深蓝色页面标题 */
+  font-weight: 600 !important;
 }
 
 /* Reduce contact section spacing */

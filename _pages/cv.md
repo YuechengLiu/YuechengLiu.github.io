@@ -13,16 +13,24 @@ Work Experience
 ======
 * 2022.03 - Present: Senior Researcher
   * Huawei Noah's Ark Lab
-  * Research Focus: Embodied AI, Reinforcement Learning, Multimodal Large Language Models
+  * Research Areas:
+    - Multimodal Large Language Models for Embodied AI
+    - Spatial Reasoning and Planning
+    - Imitation Learning and Reinforcement Learning for Autonomous Driving
   * Developing intelligent systems that can perceive, reason, and interact with physical environments
 
 * 2021.05 - 2021.09: Research Intern
   * Tencent IEG (Interactive Entertainment Group)
-  * Focus: Reinforcement Learning Algorithms
+  * Research Focus:
+    - Reinforcement Learning algorithms for Game AI
+    - Multi-agent coordination and decision-making systems
 
 * 2020.08 - 2021.04: Research Intern
   * Baidu NLP Department
-  * Focus: Reinforcement Learning Algorithms
+  * Research Focus:
+    - Reinforcement Learning and Distributed RL algorithms
+    - Black box optimization algorithms
+    - Intelligent power grid control
 
 Education
 ======
@@ -52,19 +60,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
