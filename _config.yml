@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yuecheng Liu"
 title_separator          : "-"
 name                     : &name "Yuecheng Liu"
-description              : &description "Senior Researcher at Huawei Noah's Ark Lab | Embodied AI & Reinforcement Learning"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yuecheng Liu - Senior Researcher at Huawei Noah's Ark Lab specializing in Embodied AI, Reinforcement Learning, and Multimodal Large Language Models"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://YuechengLiu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
