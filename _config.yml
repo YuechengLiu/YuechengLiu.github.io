@@ -25,10 +25,14 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuecheng Liu"
+  name_zh          : "刘悦丞"
   pronouns         : # example: "she/her"  
   bio              : "Senior Researcher at Huawei Noah's Ark Lab"
+  bio_zh           : "华为诺亚方舟实验室高级研究员"
   location         : "China"
+  location_zh      : "中国"
   employer         : "Huawei Noah's Ark Lab"
+  employer_zh      : "华为诺亚方舟实验室"
   uri              : # URL
   email            : "liuy150617@163.com"
 

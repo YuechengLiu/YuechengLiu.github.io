@@ -16,6 +16,12 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
+
+# Chinese navigation
+main-zh:
+  - title: "Publications"
+    url: /publications/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "简历"
+    url: /cv-zh/
+

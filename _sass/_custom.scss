@@ -158,3 +158,22 @@ body {
   font-size: 0.9em !important;  /* Slightly smaller citation text */
   line-height: 1.4 !important;
 }
+
+/* Language toggle button styles */
+#lang-toggle {
+  margin-right: 0.5em;
+  
+  a {
+    padding: 0.3em 0.8em;
+    background: #f3f4f6;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background: #2c5aa0;
+      color: white !important;
+    }
+  }
+}

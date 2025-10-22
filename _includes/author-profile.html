@@ -15,20 +15,40 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    {% if page.lang == 'zh' and author.name_zh %}
+      <h3 class="author__name">{{ author.name_zh }}</h3>
+    {% else %}
+      <h3 class="author__name">{{ author.name }}</h3>
+    {% endif %}
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if page.lang == 'zh' and author.bio_zh %}
+      <p class="author__bio">{{ author.bio_zh }}</p>
+    {% elsif author.bio %}
+      <p class="author__bio">{{ author.bio }}</p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+    {% if page.lang == 'zh' %}
+      <button class="btn btn--inverse">关注</button>
+    {% else %}
+      <button class="btn btn--inverse">Follow</button>
+    {% endif %}
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
-        <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+        {% if page.lang == 'zh' and author.location_zh %}
+          <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location_zh }}</li>
+        {% else %}
+          <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+        {% endif %}
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        {% if page.lang == 'zh' and author.employer_zh %}
+          <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer_zh }}</li>
+        {% else %}
+          <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        {% endif %}
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
