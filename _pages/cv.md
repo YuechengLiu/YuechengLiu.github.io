@@ -28,8 +28,8 @@ Work Experience
 * 2020.08 - 2021.04: Research Intern
   * Baidu NLP Department
   * Research Focus:
-    - Reinforcement Learning and Distributed RL algorithms
-    - Black box optimization algorithms
+  - Reinforcement Learning and Distributed RL algorithms
+  - Evolutionary optimization algorithms
     - Intelligent power grid control
 
 Education

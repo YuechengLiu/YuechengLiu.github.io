@@ -27,7 +27,7 @@ I am a senior researcher at **Huawei Noah's Ark Lab**, where I focus on cutting-
 
 * **2020.08 - 2021.04**: **Research Intern, Baidu NLP Department**
   * Reinforcement Learning and Distributed RL algorithms
-  * Black box optimization for intelligent power grid control
+  * Evolutionary optimization for intelligent power grid control
 
 ## Education
 
