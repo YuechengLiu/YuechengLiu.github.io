@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior researcher at **Huawei Noah's Ark Lab**, where I focus on cutting-edge research in **Embodied AI**, **Reinforcement Learning**, and **Multimodal Large Language Models**. My work aims to advance the capabilities of intelligent systems to perceive, reason, and interact with the physical world.
+I am currently a senior researcher at **Huawei Noah's Ark Lab**, focusing on cutting-edge research in **Embodied AI**, **Reinforcement Learning**, and **Multimodal Large Language Models**. My work aims to advance the capabilities of intelligent systems to perceive, reason, and interact with the physical world.
 
 ## Contact
 
-* **Email**: liuyuecheng1@huawei.com, liuy150617@163.com, hitliuyc@gmail.com
+* **Email**: liuy150617@163.com **(preferred)**, liuyuecheng1@huawei.com, hitliuyc@gmail.com
 
 ## Work Experience
 

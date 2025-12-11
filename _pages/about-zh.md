@@ -10,11 +10,11 @@ redirect_from:
   - /about-zh.html
 ---
 
-我是**华为诺亚方舟实验室**的高级研究员，专注于**具身智能（Embodied AI）**、**强化学习（Reinforcement Learning）**和**多模态大语言模型（Multimodal Large Language Models）**的前沿研究。我的工作主要聚焦强化学习/模仿学习算法及理论，具身多模态大语言模型、空间推理与决策规划等。
+我目前是**华为诺亚方舟实验室**的高级研究员，专注于**具身智能（Embodied AI）**、**强化学习（Reinforcement Learning）**和**多模态大语言模型（Multimodal Large Language Models）**的前沿研究。我的工作主要聚焦强化学习/模仿学习算法及理论，具身多模态大语言模型、空间推理与决策规划等。
 
 ## 联系方式
 
-* **电子邮件**: liuyuecheng1@huawei.com, liuy150617@163.com, hitliuyc@gmail.com
+* **电子邮件**: liuy150617@163.com **（首选）**, liuyuecheng1@huawei.com, hitliuyc@gmail.com
 
 ## 工作经历
 
