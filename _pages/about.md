@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "Yuecheng Liu -- Home Page"
-excerpt: "Yuecheng Liu is a Senior Researcher at Huawei Noah's Ark Lab specializing in Embodied AI, Reinforcement Learning, and Multimodal Large Language Models"
+title: "Yuecheng Liu (刘悦丞) — Home"
+excerpt: "Yuecheng Liu (刘悦丞) is a Senior Researcher at Huawei Noah's Ark Lab specializing in Embodied AI, Reinforcement Learning, and Multimodal Large Language Models"
+description: "Senior Researcher Yuecheng Liu (刘悦丞) advances Embodied AI, Reinforcement Learning, and Multimodal LLMs at Huawei Noah's Ark Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a senior researcher at **Huawei Noah's Ark Lab**, focusing on cutting-edge research in **Embodied AI**, **Reinforcement Learning**, and **Multimodal Large Language Models**. My work aims to advance the capabilities of intelligent systems to perceive, reason, and interact with the physical world.
+I am **Yuecheng Liu (刘悦丞)**, currently a senior researcher at **Huawei Noah's Ark Lab**, focusing on cutting-edge research in **Embodied AI**, **Reinforcement Learning**, and **Multimodal Large Language Models**. My work aims to advance the capabilities of intelligent systems to perceive, reason, and interact with the physical world.
 
 ## Contact
 

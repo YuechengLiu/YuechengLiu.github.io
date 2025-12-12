@@ -4,6 +4,29 @@
 
 {% include seo.html %}
 
+{% assign homepage_url = site.url | append: site.baseurl %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.name | default: site.title | escape }}",
+  "alternateName": "{{ site.author.name_zh | default: site.author.name | escape }}",
+  "jobTitle": "{{ site.author.bio | default: site.description | escape }}",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "{{ site.author.employer | default: "Huawei Noah's Ark Lab" | escape }}"
+  },
+  "url": "{{ homepage_url }}"{% if site.author.email %},
+  "email": "mailto:{{ site.author.email }}"{% endif %}{% if site.author.avatar %},
+  "image": "{{ homepage_url }}/images/{{ site.author.avatar }}"{% endif %},
+  "sameAs": [{% assign comma = '' %}
+  {% if site.author.googlescholar %}{{ comma }}"{{ site.author.googlescholar }}"{% assign comma = ', ' %}{% endif %}
+  {% if site.author.orcid %}{{ comma }}"{{ site.author.orcid }}"{% assign comma = ', ' %}{% endif %}
+  {% if site.author.github %}{{ comma }}"https://github.com/{{ site.author.github }}"{% assign comma = ', ' %}{% endif %}
+  ]
+}
+</script>
+
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
