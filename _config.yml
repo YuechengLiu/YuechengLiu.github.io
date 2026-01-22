@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yuecheng Liu (刘悦丞)"
 title_separator          : "-"
 name                     : &name "Yuecheng Liu (刘悦丞)"
-description              : &description "Yuecheng Liu (刘悦丞) — Senior Researcher in Embodied AI, Reinforcement Learning, and Multimodal Large Language Models at Huawei Noah's Ark Lab"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yuecheng Liu (刘悦丞) — Senior Researcher in Embodied AI, Reinforcement Learning, and Multimodal Large Language Models at Alibaba Tongyi Lab"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://YuechengLiu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,12 +27,12 @@ author:
   name             : "Yuecheng Liu"
   name_zh          : "刘悦丞"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Researcher at Huawei Noah's Ark Lab"
-  bio_zh           : "华为诺亚方舟实验室高级研究员"
+  bio              : "Senior Researcher at Tongyi Lab,  Alibaba Group"
+  bio_zh           : "阿里巴巴通义实验室算法专家"
   location         : "China"
   location_zh      : "中国"
-  employer         : "Huawei Noah's Ark Lab"
-  employer_zh      : "华为诺亚方舟实验室"
+  employer         : "Tongyi Lab, Alibaba Group"
+  employer_zh      : "阿里巴巴通义实验室"
   uri              : # URL
   email            : "liuy150617@163.com"
 

@@ -1,15 +1,15 @@
 ---
 permalink: /
 title: "Yuecheng Liu (刘悦丞) — Home"
-excerpt: "Yuecheng Liu (刘悦丞) is a Senior Researcher at Huawei Noah's Ark Lab specializing in Embodied AI, Reinforcement Learning, and Multimodal Large Language Models"
-description: "Senior Researcher Yuecheng Liu (刘悦丞) advances Embodied AI, Reinforcement Learning, and Multimodal LLMs at Huawei Noah's Ark Lab"
+excerpt: "Yuecheng Liu (刘悦丞) is a Senior Researcher at Alibaba's Tongyi Lab specializing in Embodied AI, Reinforcement Learning, and Multimodal Large Language Models"
+description: "Senior Researcher Yuecheng Liu (刘悦丞) advances Embodied AI, Reinforcement Learning, and Multimodal LLMs at Alibaba Tongyi Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Yuecheng Liu (刘悦丞)**, currently a senior researcher at **Huawei Noah's Ark Lab**, focusing on cutting-edge research in **Embodied AI**, **Reinforcement Learning**, and **Multimodal Large Language Models**. My work aims to advance the capabilities of intelligent systems to perceive, reason, and interact with the physical world.
+I am **Yuecheng Liu (刘悦丞)**, currently a Senior Researcher (AI Expert) at **Tongyi Lab, Alibaba Group**, focusing on cutting-edge research in **Embodied AI**, **Reinforcement Learning**, and **Multimodal Large Language Models**. My work aims to advance the capabilities of intelligent systems to perceive, reason, and interact with the physical world.
 
 ## Contact
 
@@ -17,7 +17,10 @@ I am **Yuecheng Liu (刘悦丞)**, currently a senior researcher at **Huawei Noa
 
 ## Work Experience
 
-* **2022.03 - Present**: **Senior Researcher, Huawei Noah's Ark Lab**
+* **2026.01 - Present**: **Senior Researcher (Algorithm Expert), Tongyi Lab (Alibaba Group)**
+  * Multimodal Large Language Models
+
+* **2022.03 - 2025.12**: **Senior Researcher, Huawei Noah's Ark Lab**
   * Multimodal Large Language Models for Embodied AI
   * Spatial Reasoning and Planning
   * Large Space Navigation Algorithms
