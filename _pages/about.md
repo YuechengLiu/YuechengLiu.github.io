@@ -1,4 +1,4 @@
-permalink: /
+--- permalink: /
 title: "Yuecheng Liu (刘悦丞) — Home"
 excerpt: "Yuecheng Liu at Tongyi Lab, Alibaba Group | Embodied AI, Reinforcement Learning, Multimodal LLMs"
 description: "Yuecheng Liu conducts research in Embodied AI, Reinforcement Learning, and Multimodal Foundation Models at Tongyi Lab, Alibaba Group."
